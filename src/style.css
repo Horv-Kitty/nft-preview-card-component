@@ -14,7 +14,7 @@ body {
 .main-container {
     display: grid;
     place-content: center;
-    padding-top: 50px;
+    padding-top: 125px;
     max-width: 100%;
     height: auto;
 }
@@ -171,4 +171,10 @@ footer a {
 
 footer a:hover {
     color: #E52467;
+}
+
+@media (max-width: 800px) {
+    .main-container {
+        padding-top: 50px;
+    }
 }
