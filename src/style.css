@@ -14,7 +14,7 @@ body {
 .main-container {
     display: grid;
     place-content: center;
-    padding-top: 130px;
+    padding-top: 150px;
     max-width: 100%;
     height: auto;
 }
@@ -31,7 +31,6 @@ body {
 
 .img-container {
     position: relative;
-    margin: 5px;
 }
 
 .img-container .equilibrium-img {
