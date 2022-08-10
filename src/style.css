@@ -166,7 +166,6 @@ footer {
     font-size: 10px;
     text-align: center;
     color: var(--primary-soft-blue);
-
 }
 
 footer a {
@@ -179,7 +178,7 @@ footer a:hover {
     color: #E52467;
 }
 
-@media (hover:hover) {
+/* @media (hover:hover) {
     .name a:hover {
         cursor: pointer;
         color: var(--primary-cyan);
