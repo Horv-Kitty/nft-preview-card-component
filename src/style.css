@@ -14,7 +14,7 @@ body {
 .main-container {
     display: grid;
     place-content: center;
-    padding-top: 140px;
+    padding-top: 150px;
     max-width: 100%;
     height: auto;
 }
