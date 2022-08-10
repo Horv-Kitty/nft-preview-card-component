@@ -14,7 +14,7 @@ body {
 .main-container {
     display: grid;
     place-content: center;
-    padding-top: 50px;
+    padding-top: 140px;
     max-width: 100%;
     height: auto;
 }
@@ -23,7 +23,7 @@ body {
     background-color: var(--very-dark-blue-cardbg);
     box-shadow: 0px 20px 15px 5px #09121f;
     border-radius: 20px;
-    max-width: 300px;
+    max-width: 310px;
     padding: 25px;
     margin-bottom: 20px;
 }
@@ -86,6 +86,7 @@ p {
     font-size: 18px;
     font-weight: 300;
     margin-bottom: 25px;
+    line-height: 1.5;
 }
 
 .ethereum-text-days {
@@ -100,7 +101,7 @@ p {
 .ethereum-text {
     color: var(--primary-cyan);
     font-size: 16px;
-    font-weight: 400;
+    font-weight: 600;
     position: relative;
     bottom: 3px;
 }
@@ -111,7 +112,7 @@ p {
 
 .days {
     font-size: 16px;
-    font-weight: 300;
+    font-weight: 400;
     position: relative;
     bottom: 3px;
 }
@@ -125,8 +126,9 @@ p {
 }
 
 .line {
-    margin-top: 25px;
-    border: 0.5px solid var(--very-dark-blue-line);
+    margin-top: 15px;
+    margin-bottom: 18px;
+    border: 0.1px solid var(--very-dark-blue-line);
 
 }
 
@@ -144,8 +146,6 @@ p {
 .name {
     font-size: 16px;
     font-weight: 300;
-    position: relative;
-    top: 12px;
     margin-left: 15px;
 }
 
