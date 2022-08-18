@@ -17,8 +17,8 @@ Users should be able to:
 
 ![](images/screenshot.jpg)
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://www.frontendmentor.io/solutions/nft-preview-card-component-YneEMplRgL)
+- Live Site URL: (https://willowy-rugelach-a08a68.netlify.app/)
 
 ## Author
 
